@@ -18,7 +18,7 @@ A simple and responsive **Weather Application** built using **HTML, CSS, and Jav
 
 # 📂 Project Structure
 
-```bash
+
 📁 weather_application
 │── assets/
 │── index.html
