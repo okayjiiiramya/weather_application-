@@ -92,7 +92,6 @@ async function getWeather(city) {
 The application works perfectly on:
 
 - 💻 Desktop
-- 📱 Tablet
 - 📲 Mobile
 
 ---
